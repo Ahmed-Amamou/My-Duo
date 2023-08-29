@@ -41,5 +41,5 @@ To get started with the "My Duo" app, follow the steps below:
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/YourUsername/My-Duo.git
+   git clone https://github.com/Ahmed-Amamou/My-Duo.git
 bash
